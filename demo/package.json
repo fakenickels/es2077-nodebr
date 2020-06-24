@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bs-platform": "^8.0.1",
+    "decco": "^1.2.1",
+    "serbet": "^0.4.0"
+  },
+  "devDependencies": {
+    "bs-let": "^0.1.16"
+  }
+}
